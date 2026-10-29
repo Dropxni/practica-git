@@ -2,3 +2,4 @@ Hola Git modificado
 Este es un cambio nuevo
 Linea agregada en development
 Otra linea en development
+Linea agregada en feature2
